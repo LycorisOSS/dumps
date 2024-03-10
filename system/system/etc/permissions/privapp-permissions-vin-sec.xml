@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+~ Copyright (C) 2019 VinSmart. All rights reserved.
+~
+~ Created date: Sep 09 2019
+~ Author: BonHV
+-->
+<permissions>
+  <privapp-permissions package="net.vsmart.vinservice">
+    <permission name="android.permission.READ_LOGS"/>
+    <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+  </privapp-permissions>
+
+  <privapp-permissions package="net.vsmart.dataprotection">
+    <permission name="android.permission.MANAGE_USERS"/>
+    <permission name="android.permission.INTERACT_ACROSS_USERS"/>
+    <permission name="android.permission.UPDATE_APP_OPS_STATS"/>
+  </privapp-permissions>
+
+  <privapp-permissions package="net.vsmart.vdefense">
+    <permission name="android.permission.DELETE_PACKAGES"/>
+  </privapp-permissions>
+
+  <privapp-permissions package="net.vsmart.vlocksim">
+    <permission name="android.permission.DELETE_PACKAGES"/>
+  </privapp-permissions>
+
+  <privapp-permissions package="com.android.systemui">
+    <permission name="android.permission.CALL_PRIVILEGED"/>
+  </privapp-permissions>
+  
+  <privapp-permissions package="com.vinsmart.contacts">
+    <permission name="android.permission.MANAGE_USERS"/>
+    <permission name="android.permission.CREATE_USERS"/>
+    <permission name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <permission name="android.permission.ACCESS_KEYGUARD_SECURE_STORAGE"/>
+  </privapp-permissions>
+</permissions>

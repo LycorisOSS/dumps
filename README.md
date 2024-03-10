@@ -1,0 +1,14 @@
+# casuarina_open-userdebug 9 PKQ1.190601.001 V430A_OPEN_U_M2_20200213 test-keys
+- manufacturer: vsmart
+- platform: msm8953
+- codename: casuarina
+- flavor: casuarina_open-userdebug
+- release: 9
+- id: PKQ1.190601.001
+- incremental: V430A_OPEN_U_M2_20200213
+- tags: test-keys
+- fingerprint: vsmart/casuarina_open/casuarina:9/PKQ1.190601.001/V430A_OPEN_U_M2_20200213:userdebug/test-keys
+- is_ab: false
+- brand: vsmart
+- branch: casuarina_open-userdebug-9-PKQ1.190601.001-V430A_OPEN_U_M2_20200213-test-keys
+- repo: vsmart_casuarina_dump
