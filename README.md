@@ -1,0 +1,14 @@
+# casuarina_open-user 10 QKQ1.200311.002 V430A_OPN_U_B15_211112 release-keys
+- manufacturer: vsmart
+- platform: msm8953
+- codename: casuarina
+- flavor: casuarina_open-user
+- release: 10
+- id: QKQ1.200311.002
+- incremental: V430A_OPN_U_B15_211112
+- tags: release-keys
+- fingerprint: vsmart/casuarina_open/casuarina:10/QKQ1.200311.002/V430A_OPN_U_B15_211112:user/release-keys
+- is_ab: false
+- brand: vsmart
+- branch: casuarina_open-user-10-QKQ1.200311.002-V430A_OPN_U_B15_211112-release-keys
+- repo: vsmart_casuarina_dump

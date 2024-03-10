@@ -1,0 +1,7 @@
+ro.com.android.prov_mobiledata=false
+ro.com.google.gmsversion=10_202102
+ro.opa.eligible_device=true
+ro.setupwizard.rotation_locked=true
+setupwizard.feature.deferred_setup_suggestion=false
+setupwizard.feature.deferred_snooze_allow_never=true
+setupwizard.theme=glif_v3_light
