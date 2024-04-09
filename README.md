@@ -1,0 +1,14 @@
+# fp3_gms-user 13 6.A.025.0 gms-9c64b0c5 release-keys
+- manufacturer: fairphone
+- platform: msm8953
+- codename: FP3
+- flavor: fp3_gms-user
+- release: 13
+- id: 6.A.025.0
+- incremental: gms-9c64b0c5
+- tags: release-keys
+- fingerprint: Fairphone/FP3/FP3:13/6.A.025.0/gms-9c64b0c5:user/release-keys
+- is_ab: true
+- brand: Fairphone
+- branch: fp3_gms-user-13-6.A.025.0-gms-9c64b0c5-release-keys
+- repo: fairphone_fp3_dump

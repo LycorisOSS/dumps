@@ -1,0 +1,8 @@
+on property:persist.sys.cid_orange=true
+    setprop ro.product.brand1 orange
+    setprop ro.com.google.clientidbase.ms android-orange-{country}-revc
+    setprop ro.com.google.clientidbase.cr android-uniscope
+
+on property:persist.sys.cid_vodafone=true
+    setprop ro.com.google.clientidbase.ms android-vf-{country}-revc
+    setprop ro.com.google.clientidbase.cr android-uniscope

@@ -1,0 +1,3 @@
+on property:ro.persistent_properties.ready=true
+    # Get rid of legacy value "false" on devices upgrading from Android 9.
+    setprop persist.bluetooth.enablenewavrcp "true"

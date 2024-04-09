@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!--
+This XML file declares which signature|privileged permissions should be granted to the privileged
+application ServiceMenu.
+-->
+<permissions>
+
+    <privapp-permissions package="com.fairphone.activator">
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.ACCESS_WIFI_STATE"/>
+        <permission name="android.permission.INTERNET"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.fairphone.myfairphone">
+        <permission name="android.permission.READ_PHONE_STATE"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.ACCESS_WIFI_STATE" />
+        <permission name="android.permission.CHANGE_NETWORK_STATE"/>
+        <permission name="android.permission.CHANGE_WIFI_STATE"/>
+        <permission name="android.permission.GET_ACCOUNTS"/>
+        <permission name="android.permission.INTERNET"/>
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.arima.servicemenu">
+        <permission name="android.permission.MASTER_CLEAR"/>
+        <permission name="android.permission.MODIFY_PHONE_STATE"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.android.arima">
+        <permission name="android.permission.CLEAR_APP_USER_DATA"/>
+        <permission name="android.permission.MANAGE_USERS"/>
+        <permission name="android.permission.INSTALL_EXISTING_PACKAGES"/>
+        <permission name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    </privapp-permissions>
+
+</permissions>
